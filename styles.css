@@ -80,7 +80,7 @@ header p {
 #features {
     background-color: #f9f9f9;
     padding: 40px 0;
-    text-align: center;
+    /* text-align: center; */
 }
 
 #features h2 {
